@@ -1,3 +1,10 @@
+
+
+@import "color-schemer";
+@import "compass";
+@import "breakpoint";
+@import "susy";
+
 body {
   font-family: "Montserrat","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   font-size: 14px;
@@ -48,6 +55,7 @@ li {
   max-width: 1340px;
   margin: 0 auto;
   padding: 0 40px;
+
 }
 
 .title {
